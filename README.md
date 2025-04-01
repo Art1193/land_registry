@@ -1,8 +1,6 @@
 
 # Land Registry Application using Ethereum Blockchain
-
-![](https://github.com/1209simran/Land-Registry-Application/blob/master/src/images/home.png?raw=true)
-
+https://github.com/Art1193/land_registry
 ## Abstract
 
 Developed a decentralized application using Blockchain which could overcome the short-comings of the existing process of land registry. Through Blockchain, it is possible to keep track of how property changes hand to hand. For buyers, sellers and Government registrars, it is easier to transfer the land ownership from a seller to a new buyer without any intermediaries.  It provides immutability, auditability, traceability, and anonymity features which attracts the people around the globe to implement its decentralization feature in the land registry process.  It also accelerates the process of registration and provides transparency to the system.
@@ -94,6 +92,3 @@ Once the request is approved, the buyer can now buy the property. If approved, t
 
 
 The whole process is conducted in the form of the smart contract, which ensures that the process is immutable, secured and digitized. No one in between can tamper the data, and authenticity is maintained throughout the process. There is no human error involved. Paperwork will be reduced, and most importantly, everything will become transparent. Chances of fraud cases will get reduced. The public ledger can be used in case there is any doubt regarding the land ownership claim. The documents are digitally signed, which leads to the transfer of land title upon payment in cryptocurrency.
-
-
-**In case of any query, please feel free to contact me.**
