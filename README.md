@@ -10,7 +10,7 @@ Developed a decentralized application using Blockchain which could overcome the 
 - ReactJS
 - NodeJS
 - MongoDB
-- Solidity
+- SOLIDITY
 - IPFS
 
 ## Prerequisites
